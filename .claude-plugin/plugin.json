@@ -13,6 +13,14 @@
   "supportUrl": "https://nibiashara.com/how-we-work",
   "privacyPolicyUrl": "https://nibiashara.com/privacy",
   "termsOfServiceUrl": "https://nibiashara.com/terms",
-  "keywords": ["diaspora", "african", "caribbean", "business directory", "restaurants", "local business"],
-  "skills": "./skills/"
+  "keywords": [
+    "diaspora",
+    "african",
+    "caribbean",
+    "business directory",
+    "restaurants",
+    "local business"
+  ],
+  "skills": "./skills/",
+  "repository": "https://github.com/twe-cloud/ni-biashara-directory"
 }
