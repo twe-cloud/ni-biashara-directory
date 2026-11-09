@@ -1,0 +1,18 @@
+{
+  "name": "ni-biashara-directory",
+  "displayName": "Ni Biashara Directory",
+  "version": "1.0.0",
+  "description": "Find African and Caribbean diaspora businesses across the US, Canada and beyond — restaurants, braiders, caterers, grocers, tailors, shippers and more — with the live Ni Biashara directory and a guided search skill.",
+  "author": {
+    "name": "Ni Biashara (Vaite LLC)",
+    "url": "https://nibiashara.com"
+  },
+  "homepage": "https://nibiashara.com",
+  "icon": "./icon.png",
+  "documentationUrl": "https://nibiashara.com/how-we-work",
+  "supportUrl": "https://nibiashara.com/how-we-work",
+  "privacyPolicyUrl": "https://nibiashara.com/privacy",
+  "termsOfServiceUrl": "https://nibiashara.com/terms",
+  "keywords": ["diaspora", "african", "caribbean", "business directory", "restaurants", "local business"],
+  "skills": "./skills/"
+}

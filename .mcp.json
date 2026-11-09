@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ni-biashara-directory": {
+      "type": "http",
+      "url": "https://nibiashara.com/mcp"
+    }
+  }
+}
